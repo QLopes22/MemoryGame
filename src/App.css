@@ -52,6 +52,16 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  /* height: 780px;
+  /* height: 750px;
   width: 650px; */
 }
+
+/* @media all and (min-width: 800px) {
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    width: 900px;
+  }} */
