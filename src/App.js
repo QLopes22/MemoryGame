@@ -3,6 +3,9 @@ import MemoryCard from './components/MemoryCard';
 import React from 'react';
 
 function App() {
+  // function clickHandler() {
+  //   alert("card clicked");
+  // }
   return (
     <div className="App">
       <header className="App-header">
